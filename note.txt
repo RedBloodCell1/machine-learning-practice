@@ -1,0 +1,29 @@
+Predict 2 thingies whether the thingies is x or y = Classification
+
+Features = things we pass to our model to predict.
+
+Machine Learning (ML) = subdomain of CS that focus on algo that help computer learn from data without explicit programming
+
+Artificial Intelligence (AI) = Computer perform human like behaviour
+
+ML = Subset of AI
+
+Data Science = field that attempts to find patterns and draw insight from data
+
+ML has 2 type:
+
+1. Supervised Learning = uses labeled input to train models and learn outputs.
+2. Unsupervised Learing = uses unlabeled data to learn about patterns in data
+3. Reinforcement Learning = agent learning in interactive environment based on rewards and penalties
+
+Machine Learning:
+input (feature vector) -> model -> output
+
+Features:
+
+1. Qualitative = Caterogical Data (finite number of categories or group) ex: gender, nationality
+
+Nominal Data = No inherent order
+Ordinal Data = Inherent Order
+
+Using One Hot Encoding (If the thing matches, then give 1 and other 0)
