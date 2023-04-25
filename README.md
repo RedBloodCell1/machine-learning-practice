@@ -6,7 +6,7 @@ So i learn a lil bit about what ml actually is and also how to make column with 
 
 I know today is short, but i promise tomorrow will be long.
 
-Day 2: 0:16:00 -
+Day 2: 0:16:00 - 0:42:26 (2 hours 48 minute study)
 
 Its 18:45 now, im gonna study till 24:00. See you later.
 
