@@ -13,6 +13,12 @@ Data Science = field that attempts to find patterns and draw insight from data
 ML has 2 type:
 
 1. Supervised Learning = uses labeled input to train models and learn outputs.
+
+Classification = Multiclass & Binary Classification
+Regression = Predict Continous Value
+
+Loss = Difference between prediction and actual label
+
 2. Unsupervised Learing = uses unlabeled data to learn about patterns in data
 3. Reinforcement Learning = agent learning in interactive environment based on rewards and penalties
 
@@ -27,3 +33,5 @@ Nominal Data = No inherent order
 Ordinal Data = Inherent Order
 
 Using One Hot Encoding (If the thing matches, then give 1 and other 0)
+
+2. Quantitative = Numerical valued data
