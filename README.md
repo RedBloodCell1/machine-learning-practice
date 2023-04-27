@@ -11,3 +11,7 @@ Day 2: 0:16:00 - 0:42:26 (2 hours 48 minute study)
 Its 18:45 now, im gonna study till 24:00. See you later.
 
 Im stuck... wait that sound weird. What i mean is im stuck at this one part where i got an error but idk what to fix cause its already exactly the same (00:42:46)
+
+Day 4:
+
+I know im gone yesterday and im sorry for that. I will study now 22:14. See you later
