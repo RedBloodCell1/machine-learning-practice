@@ -21,3 +21,7 @@ Understanding the basic of KNN, Naive Bayes, and Logistic Regression took me a r
 Day 5: 1:28:48 - 1:50:18 (20 minutes of study)
 
 Its 0:25 and idk if its still day 5 or not. Im still gonna study for a while tho. You guys might be wondering why i could study for 20 minutes and got 22 minutes of the video, Well i watch the video with 2 times speed as it is more efficient for me. Some might say that i wont be able to focus or understand what im watching with that speed, well for me with 10 years of experience watching something at 2 times the speed, watching normal speed is the same as how normies watch something with 0.5 speed. So yeah thats it. Today i learn about SVM and Neural Network which i already understand quite a bit. Well its 0:51 now and im gonna stop. I know its short but its something. See you today.
+
+Day 7:
+
+I will study tomorrow. Im feel sorry for myself but its saturday and sunday and i spend my time socially. I know its only an excuse, tomorrow i will study as much as i can and do my homework. Promise.
