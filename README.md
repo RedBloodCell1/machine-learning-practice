@@ -25,3 +25,7 @@ Its 0:25 and idk if its still day 5 or not. Im still gonna study for a while tho
 Day 7:
 
 I will study tomorrow. Im feel sorry for myself but its saturday and sunday and i spend my time socially. I know its only an excuse, tomorrow i will study as much as i can and do my homework. Promise.
+
+Day 8:
+
+Its 22:44, I will study now. Because i already promise i need to do it. (I will sacrifice my sleep. Because i already sleep). I know its bad but i need to do it. I will study.
