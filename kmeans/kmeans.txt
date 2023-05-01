@@ -1,0 +1,1 @@
+k means clustering = assign random k number of centroid, calculate nearest, find mean, repeat until mean is the same.

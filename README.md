@@ -26,6 +26,8 @@ Day 7:
 
 I will study tomorrow. Im feel sorry for myself but its saturday and sunday and i spend my time socially. I know its only an excuse, tomorrow i will study as much as i can and do my homework. Promise.
 
-Day 8:
+Day 8: 1:50:18 - Done (1 hours 40 minute)
 
 Its 22:44, I will study now. Because i already promise i need to do it. (I will sacrifice my sleep. Because i already sleep). I know its bad but i need to do it. I will study.
+
+I dont learn much today or thats what i feel like, I only watched the video and i mostly zone out. Its kinda hard to understand the videos explanation by itself without knowing some python basics but overall its a really good video if you already understand a python a bit. Well thats it for today, I will see you guys today on a different video without coding. I will still document it tho on another git. See you later.
